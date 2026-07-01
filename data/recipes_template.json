@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Example Lightsaber",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Example_Lightsaber",
+    "Materials": [
+      "kyber crystal (x1)",
+      "durasteel (x5)",
+      "circuit board (x2)"
+    ],
+    "Notes": "Sample entry showing expected fields.",
+    "License": "Please preserve source attribution and license info when importing."
+  }
+]

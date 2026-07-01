@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYHzl8jFunw=",
+  "success": true,
+  "projectFilePath": "K:\\Project\\Star Wars Text based game\\StarWarsRpgCs\\StarWarsRpgCs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilia\\.nuget\\packages\\htmlagilitypack\\1.11.64\\htmlagilitypack.1.11.64.nupkg.sha512"
+  ],
+  "logs": []
+}

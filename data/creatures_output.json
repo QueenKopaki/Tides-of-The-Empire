@@ -1,0 +1,1199 @@
+[
+  {
+    "Name": "Arachedron",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Arachedron",
+    "Category": "Category:Creatures",
+    "Description": "Arachedrons were small creatures which attacked the bounty hunter Boba Fett aboard the Reverie.[1]",
+    "SizeClass": "small",
+    "Habitat": "general",
+    "DangerRating": 2
+  },
+  {
+    "Name": "Babasta beast",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Babasta_beast",
+    "Category": "Category:Creatures",
+    "Description": "A babasta beast was a creature. They could be served boiled, where it was a speciality dish at The Broken Tusk on Reuss VIII.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Bacteria",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bacteria",
+    "Category": "Category:Creatures",
+    "Description": "Bacteria were organisms whose resilience allowed them to survive on inhospitable worlds such as Bastatha.[2] Some bacteria could cause infections. To prevent those during a surgical procedure, bio-sterilization fields were employed.[3]",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Bageraset",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bageraset",
+    "Category": "Category:Creatures",
+    "Description": "Bagerasets were a type of creature that lived in the galaxy.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Begamor shrimp",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Begamor_shrimp",
+    "Category": "Category:Creatures",
+    "Description": "The translation in this article\u0027s title is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Bladeback boar",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bladeback_boar",
+    "Category": "Category:Creatures",
+    "Description": "A bladeback boar was a type of creature.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Blash\u0027narl",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Blash%27narl",
+    "Category": "Category:Creatures",
+    "Description": "A blash\u0027narl was a creature that exhibited feeding frenzies.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Blaxorn",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Blaxorn",
+    "Category": "Category:Creatures",
+    "Description": "A blaxorn was a creature with spots.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Boga",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Boga_%28creature%29",
+    "Category": "Category:Creatures",
+    "Description": "The boga was a creature. \u0022Male boga\u0022 appeared on an Aurebesh list of animal sounds recorded by the clone trooper Tech. During the Mission to Skako Minor, Tech scrolled through the list and used a recording he took earlier to summon several keeradaks to escape on.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Boohar cat",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Boohar_cat",
+    "Category": "Category:Creatures",
+    "Description": "The anglicization and translation in this article\u0027s title is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Boohar pitbull",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Boohar_pitbull",
+    "Category": "Category:Creatures",
+    "Description": "The anglicization and translation in this article\u0027s title is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Borcatu",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Borcatu",
+    "Category": "Category:Creatures",
+    "Description": "Borcatus were a type of creatures that was found in the galaxy.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Bramalish",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bramalish",
+    "Category": "Category:Creatures",
+    "Description": "Bramalish were a species that resided on the planet Karaxis.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Bravaisian precursor species",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bravaisian_precursor_species",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Caniphant",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Caniphant%2FLegends",
+    "Category": "Category:Creatures",
+    "Description": "A caniphant was a four-legged creature with a tapered snout. They grew to lengths of 1.2 meters long, and stood .75 meters high. They were employed as guard animals. Ellam kept three in a force cage in his speeder lot.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Carsung",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Carsung",
+    "Category": "Category:Creatures",
+    "Description": "A carsung was a creature. They could be tamed so that individuals were capable of riding them.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Chimaera",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Chimaera_%28creature%29",
+    "Category": "Category:Creatures",
+    "Description": "The chimaera was a three-headed monstrous[1] legendary creature[2] known to the Unknown Regions Paccosh species and represented with arc-like spider legs, a cluster of small snakes resembling stalked eyes rising from the center of the arcs, and two much larger serpentine heads perched atop long barbed necks curving up and around. The large snakes were described as having their heads and open mouths pointing defiantly",
+    "SizeClass": "large",
+    "Habitat": "general",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Coney",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Coney",
+    "Category": "Category:Creatures",
+    "Description": "Coneys were creatures that could be easily frightened. General Naem Yrros likened the Rhamalians to frightened coneys due to their insistence on not relying on any forms of modern technology.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Cow",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Cow",
+    "Category": "Category:Creatures",
+    "Description": "A cow was a species of creature that could be milked, similar to a nerf.[1] Kaadu resembled tall two-legged cows.[2] On some occasions when Chef Strono Tuggs stationed his traveling restaurant at Docking Bay 7 Food and Cargo in Batuu\u0027s Black Spire Outpost, he served Batuuan Beef Pot Roast produced by Batuuan cows that grazed Naboo\u0027s grasslands.[3]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Crocodile",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Crocodile%2FLegends",
+    "Category": "Category:Creatures",
+    "Description": "A crocodile was creature in the galaxy. The grakkt, a species native to the planet Naboo, had a head that resembled a crocodile and the body of an armored lion.[1] Likkas, a species from the planet Abonshee, resembled long-legged crocodiles.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Crunchers",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Crunchers",
+    "Category": "Category:Creatures",
+    "Description": "Crunchers were rodent-like creatures that lived on the planet Jeosyn during the Galactic Civil War. The Dreamers, who named the creatures, used them to dispose of stormtrooper corpses. Iden Versio deemed the practice ghoulish.[1]",
+    "SizeClass": "medium",
+    "Habitat": "ice",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Dalef razorback",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Dalef_razorback",
+    "Category": "Category:Creatures",
+    "Description": "A Dalef razorback was a large creature. It was about 200 kilograms of muscle and fangs. One specimen was in the Imperial zoo where it gave the impression of being a lazy overgrown house pet.",
+    "SizeClass": "large",
+    "Habitat": "general",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Dask",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Dask_%28creature%29",
+    "Category": "Category:Creatures",
+    "Description": "Dasks were creatures that could be domesticated and ridden. The Ebranite Rith Tar\u0027ak was adept at riding dasks.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Derbit",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Derbit",
+    "Category": "Category:Creatures",
+    "Description": "Derbits were a creature found in the galaxy.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Diplopod",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Diplopod",
+    "Category": "Category:Creatures",
+    "Description": "Diplopods were created by author Jason Fry as placeholder creatures for the novel The Weapon of a Jedi: A Luke Skywalker Adventure, destined to eventually be replaced by happabores as a tie-in to Star Wars: Episode VII The Force Awakens. Having grown attached to the creatures, Fry chose to reuse the idea for Servants of the Empire: The Secret Academy.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Drydak",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Drydak",
+    "Category": "Category:Creatures",
+    "Description": "A drydak was a creature.[2] The word was sometimes used to insult people, such as \u0022stupid drydaks like you\u0022[3] or \u0022you stubborn drydak.\u0022[1] According to Tey Sirrek, the resemblance between Vildar Mac and a drydak was uncanny.[4]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Fairy",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Fairy",
+    "Category": "Category:Creatures",
+    "Description": "Fairies were small creatures that could be compared to Wisties in appearance.[1]",
+    "SizeClass": "small",
+    "Habitat": "general",
+    "DangerRating": 2
+  },
+  {
+    "Name": "Flycatcher",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Flycatcher",
+    "Category": "Category:Creatures",
+    "Description": "Flycatchers were creatures native to the planet Wroona. They looked like large spherical rocks with long adhesive tongues and four large webbed hands tipped with claws. They fed on avians.",
+    "SizeClass": "large",
+    "Habitat": "general",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Freiloid",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Freiloid",
+    "Category": "Category:Creatures",
+    "Description": "A Freiloid was a creature.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Fyrnock",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Fyrnock",
+    "Category": "Category:Creatures",
+    "Description": "Fyrnocks were silicon-based[5] creatures originally indigenous to the jungles of the planet Anaxes. Surviving the destruction of their homeworld, many fyrnocks inhabited the resulting Anaxes asteroid belt, including the asteroid PM-1203, which contained Fort Anaxes, a military base used by the Grand Army of the Republic during the Clone Wars. Fyrnocks were hurt by sunlight and could only live under the cover of darkn",
+    "SizeClass": "medium",
+    "Habitat": "jungle",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Gheriol",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gheriol",
+    "Category": "Category:Creatures",
+    "Description": "Gheriols appeared in The Acolyte: Wayseeker, a 2025 novel written by Justina Ireland.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Gizka",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gizka",
+    "Category": "Category:Creatures",
+    "Description": "The gizka existed in the galaxy. The Six-Card Gizka Limit game shared the name.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Gloomling",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gloomling",
+    "Category": "Category:Creatures",
+    "Description": "A Glooming was a creature mentioned by Marlaa Jinara on the planet Tenoo that haunt people\u0027s homes until they leave so that they can take over. Being as legends and rumors that they did not exist, they were said to have glowing eyes that can see in the dark but they don\u0027t like at bright lights, giving them a reason why they came out only at the night.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Gorlap",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gorlap",
+    "Category": "Category:Creatures",
+    "Description": "Gorlaps were creatures that produced eggs that were known as gorlap eggs. They were referred to in the phrase \u0022last one (\u2026) is a rotten gorlap egg,\u0022 which was used to urge people to get to a place swiftly, e.g. \u0022Last one to it is a rotten gorlap egg!\u0022 said by Maz Kanata to Kai Brightstar and Marlaa Jinara; \u0022Last one there is a rotten gorlap egg!\u0022 said by Jinara to Kanata and Brightstar;[1] and \u0022Last one to the dig si",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Greeper",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Greeper",
+    "Category": "Category:Creatures",
+    "Description": "A greeper was a creature. It was mouse-like.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Gutterguppy",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gutterguppy",
+    "Category": "Category:Creatures",
+    "Description": "A gutterguppy was a type of creature.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Ikadrian flitter-whipit",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ikadrian_flitter-whipit",
+    "Category": "Category:Creatures",
+    "Description": "The Ikadrian flitter-whipit was a creature known for its short attention span. According to the RA-7 protocol droid DK-RA-43 in the book the Galactic Explorer\u0027s Guide, his master, Hondo Ohnaka, had an attention span shorter than some Ikadrian flitter-whipits.[1]",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Kabus-Dabeh Monstrosity",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Kabus-Dabeh_Monstrosity",
+    "Category": "Category:Creatures",
+    "Description": "The Kabus-Dabeh Monstrosity was a creature that resided in the ruins of Kabus-Dabeh on the planet Muzara. It had four tentacles that were tipped with poisonous barbs, a fang-filled maw and a lumpy tail.",
+    "SizeClass": "colossal",
+    "Habitat": "general",
+    "DangerRating": 10
+  },
+  {
+    "Name": "Kethriak marauder",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Kethriak_marauder",
+    "Category": "Category:Creatures",
+    "Description": "A Kethriak marauder was a wild creature that could also be kept in captivity in zoos.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Kivaroa",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Kivaroa",
+    "Category": "Category:Creatures",
+    "Description": "Kivaroa were created for the 2015 canon short story \u0022Bottleneck\u0022 by John Jackson Miller, included in The Rise of the Empire bind-up.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Krag",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Krag_%28creature%29",
+    "Category": "Category:Creatures",
+    "Description": "A krag was a creature in the galaxy. The expletive \u0022krag wrangler\u0022 was used as an insult.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Lake-diver",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Lake-diver",
+    "Category": "Category:Creatures",
+    "Description": "Lake-divers were creatures found on the world of Pondakree. They were particularly easy to capture, and when Pondakree native Emarr Ottkreg witnessed the Galactic Empire destroy several Alliance to Restore the Republic starships with ease at the Battle of Endor he compared difficulty to catching lake-divers.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Lion",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Lion",
+    "Category": "Category:Creatures",
+    "Description": "Lions were a species of leonids whose face served as the Mandalorian Clan Eldar\u0027s signet. They were known for representing concepts such as bravery, courage, and pride.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Loreek",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Loreek",
+    "Category": "Category:Creatures",
+    "Description": "The loreek was a creature with the ability to sing. During the battle on Bahlah, the leader of the Morubas Crime Family, Jjan exclaimed that the loreek were singing when the Shadow Collective attempted to break down the doors to his family\u0027s stronghold.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Louse",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Louse",
+    "Category": "Category:Creatures",
+    "Description": "Lice were a creature found throughout the galaxy.[2]",
+    "SizeClass": "medium",
+    "Habitat": "ice",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Lucrusian fengrill",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Lucrusian_fengrill",
+    "Category": "Category:Creatures",
+    "Description": "Lucrusian fengrills were a type of creature. To be as \u0022drunk as a Lucrusian fengrill\u0022 was a saying that could refer to an inebriated individual.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Luftgriff",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Luftgriff",
+    "Category": "Category:Creatures",
+    "Description": "Luftgriffs were creatures on Vandor that flocked together. The Luftgriff Peak shared its name with the creatures. The owner of The Lodge, Tibbs Ospe, once threatened to feed the smuggler Lando Calrissian to luftgriffs for skipping out on his tab, but following the raid on Kessel, Calrissian returned and paid his debts.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Manpha-fowl",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Manpha-fowl",
+    "Category": "Category:Creatures",
+    "Description": "Manpha-fowl was a type of creature[1] that shared its name with the planet Manpha.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Mantis",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mantis",
+    "Category": "Category:Creatures",
+    "Description": "A mantis was a lifeform that did not possess a stinger. It shared its name with the S-161 \u0022Stinger\u0022 XL luxury yacht Stinger Mantis owned by Greez Dritus, which he named such because he liked the image it provoked.[1] The insectoid Yam\u0027rii species[2] were praying mantis-like.[3]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Marsh-slither",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Marsh-slither",
+    "Category": "Category:Creatures",
+    "Description": "A marsh-slither was a creature native to the planet where the Alliance base DVL-181 was located. Marsh-slithers were known to get into the landing gear of starships on the base.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Mooka",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mooka",
+    "Category": "Category:Creatures",
+    "Description": "The mooka were a chimerical[1] creature found in the galaxy.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Morag\u0027s beast",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Morag%27s_beast",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Mudhen",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mudhen",
+    "Category": "Category:Creatures",
+    "Description": "A mudhen was a creature known to the miners of the planet Mimban.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Nanak",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Nanak",
+    "Category": "Category:Creatures",
+    "Description": "Nanaks were a type of creature native to the planet Egips that could communicate with sentient species, like humans. Gherd was a nanak owned by Harra the Hutt.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Nightscowl",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Nightscowl",
+    "Category": "Category:Creatures",
+    "Description": "Nightscowls were forest-dwelling creatures native to Okator VIII. They were considered dangerous.",
+    "SizeClass": "medium",
+    "Habitat": "jungle",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Oyster",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Oyster",
+    "Category": "Category:Creatures",
+    "Description": "The oyster was an organism in the galaxy that was known to have a soft navel. Skoova Stev was accused of having gone as soft as an oyster\u0027s navel by Wan\u0027yek Whett after Skoova didn\u0027t use his harpoon to kill a gang of pirate Quarren.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Pamaradian prancer",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pamaradian_prancer",
+    "Category": "Category:Creatures",
+    "Description": "A Pamaradian prancer was a creature that lived in the galaxy. After the death of her sister Paige during the Resistance\u0027s evacuation of D\u0027Qar, Rose Tico thought of how the pair would never be able to get to ride a Pamaradian prancer.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Phindian Zillik",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Phindian_Zillik",
+    "Category": "Category:Creatures",
+    "Description": "The Phindian Zillik was a species native to Phindar with scales that were highly resistant to a broad spectrum of solar radiation.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Pit-boar",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pit-boar",
+    "Category": "Category:Creatures",
+    "Description": "A pit-boar was a creature whose teeth decorated the half-mask worn by Lando Calrissian while in disguise as a skiff guard in Jabba\u0027s Palace during the rescue attempt of Han Solo in 3 ABY.[1]",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Po\u0027ackster",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Po%27ackster",
+    "Category": "Category:Creatures",
+    "Description": "Po\u0027acksters were creatures with four eyes that produced pink milk.[1] At some point between 3 ABY and 4 ABY,[2] they were considered to be rare and highly sought after, and a number of them were kept within an Imperial warehouse in the Imperial Warehousing District on[1] the planet[3] E\u0027ronoh. During this time, the Weequay Jand led the smuggler Sana Starros to the warehouse as she was in need of a quick score. After ",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Pucksy",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pucksy",
+    "Category": "Category:Creatures",
+    "Description": "A pucksy first appeared in \u0022The Helpful Harvester,\u0022 the first part of the fourteenth episode of the second season of Star Wars: Young Jedi Adventures animated series[1] released on March 19, 2025.[2]",
+    "SizeClass": "medium",
+    "Habitat": "ocean",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Rexx-boar",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rexx-boar",
+    "Category": "Category:Creatures",
+    "Description": "Rexx-boars were a kind of animal found on Grizal.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Rodir",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rodir",
+    "Category": "Category:Creatures",
+    "Description": "Boba Fett? Boba Fett? Where?",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Rokur Gepta\u0027s pet food",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rokur_Gepta%27s_pet_food",
+    "Category": "Category:Creatures",
+    "Description": "Rokur Gepta fed his pets a certain kind of animal for their food. They were very much like mice, with pelts of curly golden fur, large blue eyes, and bushy tails. They were sleek, clean, and radiated warmth, and let out squeaks when in pain or distressed. They made Gepta shudder, and he fed them to his pets alive.",
+    "SizeClass": "large",
+    "Habitat": "ice",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Rondat",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rondat",
+    "Category": "Category:Creatures",
+    "Description": "A Rondat is a animal native to Kuan. When Captain Trace was reciting a proverb about curiosity killing some creature, Maarek Stele mentioned a rondat, to which Trace suggested the rondat before dismissing him.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Ropnid",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ropnid",
+    "Category": "Category:Creatures",
+    "Description": "A ropnid was a creature. They were known for having an unpleasant underbelly.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Rork",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rork",
+    "Category": "Category:Creatures",
+    "Description": "A rork was a creature. They organized themselves in packs.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Saphantine",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Saphantine",
+    "Category": "Category:Creatures",
+    "Description": "Saphantine was a creature that resided on Taltos.[1] By 382 BBY,[2] Padawan Silandra Sho got stuck in the burrow where a Saphantine resided.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Selliwyrm",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Selliwyrm",
+    "Category": "Category:Creatures",
+    "Description": "A selliwyrm was a creature known to the Velabri. They were considered to be cowardly.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Sharrapon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Sharrapon",
+    "Category": "Category:Creatures",
+    "Description": "Sharrapons were creatures that lived in the galaxy. Landonis Balthazar Calrissian stole Batalla\u0027s sharrapon during the Calladus festival and raised the creature.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Sheep",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Sheep",
+    "Category": "Category:Creatures",
+    "Description": "Sheep were a herd species. One variety was the cochukka, which were kept by shepherds on the planet Pkori.[3] In 231 BBY,[4] Eye of the Nihil Marchion Ro referred to the followers of Supreme Chancellor Lina Soh as her sheep.[5] In 22 BBY,[6] while on a mission to the planet Thule, the Jedi Knight Iskat Akaris noted that the local slugs feeding on the stone of a canyon wall looked like a herd of sheep grazing on a ver",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Sithspawn",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Sithspawn",
+    "Category": "Category:Creatures",
+    "Description": "Sithspawn[2] were creatures affiliated with the Sith.[3] The Jedi Temple Detention Center in the Jedi Temple on Coruscant was initially built to detain them.[2] After the crime lord Cenevax captured Dooku and his Padawan Qui-Gon Jinn, she was attacked by a convor Dooku had brought with him named Calleen and lashed out, calling her \u0022Sith spawn\u0022, before killing the convor.[1] Jedi Master Mace Windu called the assassin ",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Skiddo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Skiddo",
+    "Category": "Category:Creatures",
+    "Description": "These creatures first appeared in the 1987 Japanese Star Wars video game for the Famicom home console.[1] Their name was revealed in the Japanese language guide of the game serialized in Family Computer Magazine, in which it was rendered as \u30B9\u30AD\u30C3\u30C9 (Sukiddo) in katakana syllabary.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Slime-bug",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Slime-bug",
+    "Category": "Category:Creatures",
+    "Description": "A slime-bug was a creature native to the planet where the Alliance base DVL-181 was located. Slime-bugs were known to get into dinners made on the base.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Snitmouse",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Snitmouse",
+    "Category": "Category:Creatures",
+    "Description": "A snitmouse was a type of mouse.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Specimen Nine",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Specimen_Nine",
+    "Category": "Category:Creatures",
+    "Description": "Specimen 9 was a creature surgically cobbled together from a multitude of beings created by cryptosurgeons.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Spider-roach",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Spider-roach",
+    "Category": "Category:Creatures",
+    "Description": "A spider-roach was a type of creature. After General Vukorah of the Unbroken Clan, who was holding employees of De\u0027Rruyet Industries hostage on the[1] planet[2] Midarr, discovered that Doctor Chelli Lona Aphra had survived her attempt to kill her[1] on the planet Dol\u0027har Hyde,[3] she remarked to Aphra that she was harder to kill than a spider-roach.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Squawkin",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Squawkin",
+    "Category": "Category:Creatures",
+    "Description": "A squawkin was a type of creature. The Chagrian Nihil Jeni Wataro called the Mon Calamari Chief of Security for the space station Starlight Beacon Ghal Tarpfen such a creature after she refused to allow any Nihil pirates to escape from a starship via numerous escape pods.[1]",
+    "SizeClass": "medium",
+    "Habitat": "space",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Strostodon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Strostodon",
+    "Category": "Category:Creatures",
+    "Description": "Strostodons were large birdlike creatures found on the planet Vexos. They walked on two legs and stood about nine feet tall, flightless but able to jump and glide. Strostodons hunted in packs, and emitted loud screeches from their beaks when attacking, or trills when pacified.[1]",
+    "SizeClass": "large",
+    "Habitat": "general",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Tanarian vulk",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Tanarian_vulk",
+    "Category": "Category:Creatures",
+    "Description": "The Tanarian vulk was a big, repugnant creature that was also was slow and plodding.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Tapir",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Tapir",
+    "Category": "Category:Creatures",
+    "Description": "Tapirs were creatures with snouts. The Rodian Greedo was described as having a tapir-like snout.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Terazod",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Terazod",
+    "Category": "Category:Creatures",
+    "Description": "The terazod was a creature whose meat could be cooked in the form of a stew.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Terrorvore",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Terrorvore",
+    "Category": "Category:Creatures",
+    "Description": "Terrorvores were creatures, some of which were in the possession of King Prana.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Thalassian frezhin",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Thalassian_frezhin",
+    "Category": "Category:Creatures",
+    "Description": "A Thalassian frezhin was a creature.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "The Caller in the Dark",
+    "SourceUrl": "https://starwars.fandom.com/wiki/The_Caller_in_the_Dark",
+    "Category": "Category:Creatures",
+    "Description": "The Caller in the Dark appears in Star Wars: The Old Republic: Knights of the Eternal Throne as a bonus boss during the \u0022Destroyer Of Worlds\u0022 Uprising.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Thesselbeast",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Thesselbeast",
+    "Category": "Category:Creatures",
+    "Description": "A thesselbeast was a type of creature. A thesselbeast\u0027s foot was a lucky charm; one was carried by the smuggler Roark Garnet.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Tiehn slug",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Tiehn_slug",
+    "Category": "Category:Creatures",
+    "Description": "The Tiehn slug was creature that was a delicacy for the Hutts.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Toorga",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Toorga",
+    "Category": "Category:Creatures",
+    "Description": "A Toorga was a type of creature that could be kept inside a Toorgash range. A Coruscant holding facility that was used by the Galactic Republic during the Clone Wars had a Toorgash range with live Toorgas located inside it.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Trahio",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Trahio",
+    "Category": "Category:Creatures",
+    "Description": "The trahio was a species of creature know to be a techivore, like the mynock and the raen sovra.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Tran Mariel runyip",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Tran_Mariel_runyip",
+    "Category": "Category:Creatures",
+    "Description": "The Tran Mariel runyip was a subspecies of Runyip from Tran Mariel.[2] Like their cousins found on Yavin 4,[4] the Tran Mariel runyip had possessed hooves and tapered ears[2] but instead of a long snout[4] they possessed a long trunk and a shaggy coat of hair.[2] By 10 BBY,[5] the gangster Dryden Vos kept a Tran Mariel runyip in suspended animation in his study aboard his yacht, along with other rare animals.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Trooshti",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Trooshti",
+    "Category": "Category:Creatures",
+    "Description": "A trooshti was a creature that flew in swarms. According to a legend known by the Hassarian Vaclav, Jabba the Hutt had once faced a trooshti swarm.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Benglor creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Benglor_creature",
+    "Category": "Category:Creatures",
+    "Description": "During the Clone Wars in 22 BBY,[2] Jedi General Anakin Skywalker and clone troopers of the 501st Legion encountered one of these creatures during a mission to Benglor. The creature killed one of Skywalker\u0027s men, but was eventually pacified by the Jedi and his second-in-command, Clone Captain CT-7567 \u0022Rex.\u0022[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Charissia creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Charissia_creature",
+    "Category": "Category:Creatures",
+    "Description": "A creature that had black eyes, and had gray skin, and was native to the moon Charissia.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (AG-37)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28AG-37%29",
+    "Category": "Category:Creatures",
+    "Description": "A quadripedal species of creature with purple skin, a hunched back, plenty of sharp teeth, and at least one tusk existed in the galaxy. In the year 138 ABY, one of them was transported to the planet Iego by the delivery crew of AG-37 and Sauk, aboard AG-37\u0027s freighter.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Christophsis)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Christophsis%29",
+    "Category": "Category:Creatures",
+    "Description": "A creature with orange-colored skin and yellow crystals protruding from their body was native to the planet Christophsis.[1] Around 3 ABY,[2] one such creature attacked the humans Luke Skywalker and Gretta while they cruised along the surface of the planet.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Dallenor)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Dallenor%29",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Garazeb Orrelios)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Garazeb_Orrelios%29",
+    "Category": "Category:Creatures",
+    "Description": "This creature existed in the galaxy. Before the year 4 BBY one of these creatures attacked a friend of Garazeb Orrelios in a underground cave.[1]",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Hubin)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Hubin%29",
+    "Category": "Category:Creatures",
+    "Description": "This creature first appeared in Star Wars (2015) 56[1] written by Kieron Gillen, illustrated by Andrea Broccardo, and published by Marvel Comics on November 7, 2018.[4]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Keeper\u0027s World)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Keeper%27s_World%29",
+    "Category": "Category:Creatures",
+    "Description": "Unidentified creatures, humanoid in appearance with pink fur, dwelled on Keeper\u0027s World and were a threat to any who landed on the planet.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Ronto Roasters)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Ronto_Roasters%29",
+    "Category": "Category:Creatures",
+    "Description": "The species first appeared as a set decoration at the real-world Ronto Roasters within the canonical themed-attraction Star Wars: Galaxy\u0027s Edge,[1] which was first open publicly on May 31, 2019.[2]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified creature (Solace)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_creature_%28Solace%29",
+    "Category": "Category:Creatures",
+    "Description": "The creatures were the size of small Loth-wolves with hard, chitinous plating and long snouts. There mandibles could discharged a strange energy that could disabled a person with a small touch.[1]",
+    "SizeClass": "small",
+    "Habitat": "general",
+    "DangerRating": 2
+  },
+  {
+    "Name": "Unidentified furry humanoid creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_furry_humanoid_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Galgus creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Galgus_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Galjaero creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Galjaero_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified GUHL-J03870 creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_GUHL-J03870_creature",
+    "Category": "Category:Creatures",
+    "Description": "A creature native to the planet GUHL-J03870 had purple or pink fur. One of these creatures came aboard one of the AAL-1971/9.1 Troop Transports when it landed on GUHL-J03870.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified long-necked Irff creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_long-necked_Irff_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified long-nosed Irff creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_long-nosed_Irff_creature",
+    "Category": "Category:Creatures",
+    "Description": "A green and blue skinned creature was native to the planet Irff. According to Jek Tono Porkins, they were known to be delicious.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified mythosaur",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_mythosaur",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified night creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_night_creature",
+    "Category": "Category:Creatures",
+    "Description": "A creature was native to the planet Vyndal. A woman said to Kanan Jarrus that if he remained in the forest he would have been killed by these creatures.[1]",
+    "SizeClass": "medium",
+    "Habitat": "jungle",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Noaxson creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Noaxson_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified Odona creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_Odona_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified pack beast",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_pack_beast",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified reek-like creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_reek-like_creature",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified six-legged alien",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_six-legged_alien",
+    "Category": "Category:Creatures",
+    "Description": "A six-legged alien species existed in the galaxy. They were identified by big, black eyes, six legs that possessed claws, large ears, spines on its back, and antennae. They were apparently popular enough to be kept as pets.",
+    "SizeClass": "large",
+    "Habitat": "general",
+    "DangerRating": 6
+  },
+  {
+    "Name": "Unidentified two-headed rodent",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_two-headed_rodent",
+    "Category": "Category:Creatures",
+    "Description": "The title of this article is conjectural.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Unidentified winged creature",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Unidentified_winged_creature",
+    "Category": "Category:Creatures",
+    "Description": "In 4 ABY[3] two of these creatures were kept in a cave adiacent to the main pit that contained Jabba\u0027s rancor, below Jabba\u0027s Palace on Tatooine.[2]",
+    "SizeClass": "medium",
+    "Habitat": "cave",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Valath",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Valath",
+    "Category": "Category:Creatures",
+    "Description": "A valath was a huge and deadly creature that was the apex predator of the planet Chandar\u0027s Folly. It had a hide that boasted unique chromatophores which allowed it to blend into its background. Whilst being hunted by Governor Wilhuff Tarkin and nineteen other hunters, Darth Vader killed a valath, without the use of his lightsaber, and wore its skin as a cloak.[1]",
+    "SizeClass": "huge",
+    "Habitat": "general",
+    "DangerRating": 9
+  },
+  {
+    "Name": "Wentoc",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Wentoc",
+    "Category": "Category:Creatures",
+    "Description": "A wentoc was a type of creature that lived in the galaxy. It lent its name to the phrase \u0022jran and wentoc.\u0022[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Whale",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Whale",
+    "Category": "Category:Creatures",
+    "Description": "Whales were a type of creature that existed in various locations across the galaxy; which included the Cartusion whale,[1] the ruhau-whale,[2] and the oceanic starwhale species.[3] The cyborg creatures that formed the whale-ships,[4] and the space-faring purrgil were also considered whale-like species.[5] Additionally, the aiwhas\u2014non-sentient species[6] of winged cetaceans native to the planet Kamino[7]\u2014were also cal",
+    "SizeClass": "medium",
+    "Habitat": "space",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Wharlithan",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Wharlithan",
+    "Category": "Category:Creatures",
+    "Description": "Wharlithans were a species of horned creatures. Their horns were used in a musical instrument by the Lanai on Ahch-To.[1]",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Whelorian snake-eater",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Whelorian_snake-eater",
+    "Category": "Category:Creatures",
+    "Description": "The Whelorian snake-eater was a creature noted for its narrow, pinched features. Luke Skywalker once likened General Sebastian Parnell to a Whelorian snake-eater.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Wyrm",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Wyrm",
+    "Category": "Category:Creatures",
+    "Description": "Wyrms were creatures found on Merakai. An ancient Sith wyrm inhabited Yavin 4, but was destroyed by Exar Kun around 4000 BBY.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Ysalamiri",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ysalamiri",
+    "Category": "Category:Creatures",
+    "Description": "Ysalamiri first appeared in Star Wars canon as sculptures in the 2017 Star Wars Rebels episode \u0022Through Imperial Eyes,\u0022[2] the seventeenth episode of the show\u0027s third season.[4] The creature\u0027s name was first identified in the Behind-the-Scenes Gallery of the episode guide that accompanied \u0022Through Imperial Eyes\u0022 on StarWars.com.[1] They first appeared in the Star Wars Legends continuity in the 1991 novel Heir to the ",
+    "SizeClass": "medium",
+    "Habitat": "ocean",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Zaproach",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Zaproach",
+    "Category": "Category:Creatures",
+    "Description": "A zaproach was a creature that lived in a nest. To \u0022stir up a zaproach nest\u0022 was a saying that related to causing trouble.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "Zare Leonis\u0027s diplopod",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Zare_Leonis%27s_diplopod",
+    "Category": "Category:Creatures",
+    "Description": "A diplopod was used by Zare Leonis during training exercises at the officer\u0027s Academy on Arkanis. Like other diplopods, it was insect-like and had a stinger, as well as a green shell and innards that Leonis found slightly nauseating. It seemed to respond well to Leonis\u0027s commands and Leonis was pleased that he only rarely had to use his provided electro-prod on it, as he found it distasteful. During the exercise, Leo",
+    "SizeClass": "medium",
+    "Habitat": "ice",
+    "DangerRating": 4
+  },
+  {
+    "Name": "\u0022Mynock\u0022",
+    "SourceUrl": "https://starwars.fandom.com/wiki/%22Mynock%22",
+    "Category": "Discovered",
+    "Description": "Redirect to:",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "\u0022Rancor\u0022 Johans",
+    "SourceUrl": "https://starwars.fandom.com/wiki/%22Rancor%22_Johans",
+    "Category": "Discovered",
+    "Description": "Redirect to:",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "\u0022Wampa\u0022",
+    "SourceUrl": "https://starwars.fandom.com/wiki/%22Wampa%22",
+    "Category": "Discovered",
+    "Description": "The title of this article is a nickname, call sign, or alias.",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "AT-AT Swimmer (Darth Krayt\u0027s Galactic Empire)",
+    "SourceUrl": "https://starwars.fandom.com/wiki/AT-AT_Swimmer_%28Darth_Krayt%27s_Galactic_Empire%29",
+    "Category": "Discovered",
+    "Description": "The version used by Darth Krayt\u0027s Galactic Empire could operate underwater and had shields. It included at least 6 laser cannons, including a rear double laser cannon to stem attacks from the rear, and was fitted with a launch bay containing at least five Shark underwater fighters. The new design looked similar to the old one, although sleeker in design. The command bridge was also replaced by another similar to a st",
+    "SizeClass": "medium",
+    "Habitat": "ocean",
+    "DangerRating": 4
+  },
+  {
+    "Name": "A Boy and His Monster",
+    "SourceUrl": "https://starwars.fandom.com/wiki/A_Boy_and_His_Monster",
+    "Category": "Discovered",
+    "Description": "Redirect to:",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "A Boy and His Monster: The Rancor Keeper\u0027s Tale",
+    "SourceUrl": "https://starwars.fandom.com/wiki/A_Boy_and_His_Monster%3A_The_Rancor_Keeper%27s_Tale",
+    "Category": "Discovered",
+    "Description": "When the fearsome rancor monster is found in a shipwreck in Tatooine\u0027s Dune Sea, Jabba\u0027s underlings present it as a gift to the gangster. Jabba tasks Malakili with the care and feeding of his new pet. Malakili is overjoyed to have custody of Jabba\u0027s rancor, but he resents the captivity of what he considers so magnificent a beast. Over time, he and the rancor develop a certain rapport, which convinces Malakili that he",
+    "SizeClass": "medium",
+    "Habitat": "desert",
+    "DangerRating": 4
+  },
+  {
+    "Name": "A Creature in the Stars",
+    "SourceUrl": "https://starwars.fandom.com/wiki/A_Creature_in_the_Stars",
+    "Category": "Discovered",
+    "Description": "Redirect to:",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  },
+  {
+    "Name": "A Creature in the Stars!",
+    "SourceUrl": "https://starwars.fandom.com/wiki/A_Creature_in_the_Stars%21",
+    "Category": "Discovered",
+    "Description": "Over here! Help! Please, help!",
+    "SizeClass": "medium",
+    "Habitat": "general",
+    "DangerRating": 4
+  }
+]

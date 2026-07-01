@@ -1,0 +1,1202 @@
+[
+  {
+    "Name": "D6 turbolaser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/D6_turbolaser",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The D6 turbolaser was manufactured by Taim \u0026 Bak for the Empire. 5,000 D6 turbolaser batteries were installed aboard the first Death Star."
+  },
+  {
+    "Name": "Heavy turbolaser turret",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Heavy_turbolaser_turret",
+    "Category": "turbolaser",
+    "HardpointSize": "L",
+    "Era": "Original Trilogy",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "These twin-barreled turbolasers had a diameter of 50 meters and were mounted alongside the flanks of Imperial I-class Star Destroyers, where they served as heavy anti-capital ship weapons. While they were too slow to reliably target fast starfighters, even a glancing hit of these weapons could destroy a small craft. Each of these turbolasers could overload deflector shields or penetrate the hulls of the most heavily "
+  },
+  {
+    "Name": "Imperial Comm Station\u0027s East Turbolaser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Imperial_Comm_Station%27s_East_Turbolaser",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "In 3 ABY,[2] the scoundrel Kay Vess stole items from a container inside the turbolaser as well as an imperial case file on Eleera Soi.[1]"
+  },
+  {
+    "Name": "Imperial Comm Station\u0027s West Turbolaser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Imperial_Comm_Station%27s_West_Turbolaser",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "In 3 ABY,[2] the scoundrel Kay Vess stole an Ion Capacitator Charge from the turbolaser.[1]"
+  },
+  {
+    "Name": "Long-range turbolaser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Long-range_turbolaser",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "Long-range turbolaser technology was developed by the Galactic Alliance during the Second Galactic Civil War."
+  },
+  {
+    "Name": "MegaCaliber Six turbolaser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/MegaCaliber_Six_turbolaser_cannon",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The AT-M6 got its name from the turbolaser cannon on its back (AT-M6s in battle pictured)."
+  },
+  {
+    "Name": "Quad turbolaser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Quad_turbolaser_cannon",
+    "Category": "turbolaser",
+    "HardpointSize": "L",
+    "Era": "Clone Wars",
+    "DamageRating": 24,
+    "FuelDraw": 3,
+    "Description": "The quad turbolaser cannon[1] (also called quad turbolaser battery) was a heavier version of the quad laser cannon designed for cruisers. The Droid Control Ships, for example, used by the Trade Federation during the Invasion of Naboo and the Clone Wars were fitted with 42 quad turbolaser cannons.[2] The quad turbolaser cannons installed aboard the Invisible Hand had maximum power output that was the equivalent of a M"
+  },
+  {
+    "Name": "System IV",
+    "SourceUrl": "https://starwars.fandom.com/wiki/System_IV",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "Loronar Defense Industries\u0027 System IV was the company\u0027s most advanced model of turbolaser. The introduction of the weapon into the market, alongside the MAS-2xB mobile turbolaser, helped to cement Loronar\u0027s position as one of the dominant weapon manufacturers in the galaxy.[1]"
+  },
+  {
+    "Name": "Turbolaser pulsor",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Turbolaser_pulsor",
+    "Category": "turbolaser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "A turbolaser pulsor was a type of turbolaser mounted on the MAS-2xB turbolaser platform."
+  },
+  {
+    "Name": "80-100 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/80-100_laser_cannon",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "The 80-100 laser cannon was manufactured by Senko Systems, and was the primary laser weapon on early versions of the TIE/IN interceptor."
+  },
+  {
+    "Name": "Anti-personnel laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Anti-personnel_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Clone Wars",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "The anti-personnel laser cannon was a light laser cannon that was designed for killing infantry personnel. It was used on vehicles like the AT-TE, OG-9 homing spider droid and Clone Turbo Tank."
+  },
+  {
+    "Name": "Autofiring laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Autofiring_laser_cannon",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "Autofiring laser cannons were set up as booby traps by poachers and other factions to destroy ships of those trying to scan or search abandoned starships in space, particular Imperial in nature. They would activate when crews tripped an alarm. The Foresight was one ship destroyed by an autofiring laser cannon."
+  },
+  {
+    "Name": "Beam cannon turret",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Beam_cannon_turret",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 1,
+    "Description": "Beam cannon turrets were specially tuned laser weapons with a high output and long dwell time. They fired continuous beams of energy at a target for roughly three seconds, and then required a few seconds to recharge before firing again. These weapons hit incredibly hard, could punch through light and medium armor with ease, and had a tendency to set targets on fire. The Taim \u0026 Bak KB-50a beam cannon was a type of bea"
+  },
+  {
+    "Name": "C-10 plasburst cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/C-10_plasburst_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to equip the Trailblazer, her EML-850 light freighter, with a C-10 plasburst cannon as well as providing materials to install it.[1]"
+  },
+  {
+    "Name": "C-5B plasburst cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/C-5B_plasburst_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to equip the Trailblazer, her EML-850 light freighter, with a C-5B plasburst cannon as well as providing materials to install it.[1]"
+  },
+  {
+    "Name": "C-K10A rapid fire cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/C-K10A_rapid_fire_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to equip the Trailblazer, her EML-850 light freighter, with a C-K10A rapid fire cannon as well as providing materials to install it.[1]"
+  },
+  {
+    "Name": "C-K12B rapid fire cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/C-K12B_rapid_fire_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY,[2] the scoundrel Kay Vess paid for the services of a starship mechanic to equip the Trailblazer, her EML-850 light freighter, with a C-K12B rapid fire cannon as well as providing materials to install it.[1]"
+  },
+  {
+    "Name": "Class II heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Class_II_heavy_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Original Trilogy",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "Class II heavy laser cannons first appeared in the 1980 original trilogy film Star Wars: Episode V The Empire Strikes Back.[2] They were first identified on the 2014 fine-art print \u0022AT-AT\u0022 SpecPlate.[1]"
+  },
+  {
+    "Name": "Composite-beam laser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Composite-beam_laser",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The composite-beam laser focused multiple laser beams, which meet at a central point, into a single, considerably more powerful beam, which is sent along a different angle. Unsurprisingly, such a device could be exceptionally destructive. Examples include the Death Star I and the Death Star II. Smaller examples include Arb Skynxnex\u0027s double blaster and the anti-infantry turrets on the Republic LAAT/i. The OG-9 homing"
+  },
+  {
+    "Name": "Composite-beam pinpoint laser turret",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Composite-beam_pinpoint_laser_turret",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "New Republic",
+    "DamageRating": 24,
+    "FuelDraw": 4,
+    "Description": "The prototype Blade-wing designed by Mon Calamari Engineer Quarrie utilised one of these as its primary heavy weapon against Capital ships, and it was an optional configuration for the production model A/SF-01 B-wing starfighter used by the Rebel Alliance and later New Republic."
+  },
+  {
+    "Name": "Double-barreled laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Double-barreled_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "A double-barreled laser cannon was a laser cannon with two barrels that could be carried by an individual. The Ithorian Momaw Nadon once carried one of these weapons."
+  },
+  {
+    "Name": "Heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Heavy_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Sequel Trilogy",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "Heavy laser cannons were pieces of artillery installed on AT-ST Mark IIIs,[1] standard AT-ATs,[2] the TIE Avenger,[3] and First Order All Terrain Armored Transports.[4]"
+  },
+  {
+    "Name": "K-43 heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/K-43_heavy_laser_cannon",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 24,
+    "FuelDraw": 4,
+    "Description": "The k-43 heavy laser cannon was a prototype laser cannon constructed by Incom Corporation. One of the prototypes was acquired by Elea Poista, and she arranged to deliver it to the Alliance to Restore the Republic on Miser."
+  },
+  {
+    "Name": "KX8 Laser Cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/KX8_Laser_Cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "L-s series laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/L-s_series_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "I find your lack of sources disturbing."
+  },
+  {
+    "Name": "L-s7.2 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/L-s7.2_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The Ls7.2 laser cannon was a tibanna gas-powered starfighter weapon designed by Sienar Fleet Systems to be installed and used by fighters of the Imperial TIE fighter series. It was conceived as an improvement upon the earlier standard model of L-s1 laser cannon used in Tie line craft before the Battle of Endor which was prone to overheating and slowing down the craft while it was firing due to drawing power directly "
+  },
+  {
+    "Name": "LC-50 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/LC-50_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "Vess eventually upgraded the Trailblazer and replaced its LC-50 with a LC-60 laser cannon and then a LC-70 laser cannon, providing increased rate of fire.[1]"
+  },
+  {
+    "Name": "LC-60 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/LC-60_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to upgrade her EML-850 light freighter Trailblazer\u0027s LC-50s to LC-60, providing the necessary parts. Later further upgrading the Trailblazer to the LC-70 laser cannon.[1]"
+  },
+  {
+    "Name": "LC-70 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/LC-70_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 0,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to upgrade her EML-850 light freighter Trailblazer\u0027s LC-60s to LC-70s, providing the necessary parts.[1]"
+  },
+  {
+    "Name": "Maad-21 heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Maad-21_heavy_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "The Kyuzo Maad-21 heavy laser cannon was a type of heavy laser cannon used by All Terrain Tactical Enforcers. Each walker had four of these ball-turrets located in the front, with two more in their rear, to maximize their field of fire.[1]"
+  },
+  {
+    "Name": "Maad-38 heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Maad-38_heavy_laser_cannon",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Original Trilogy",
+    "DamageRating": 24,
+    "FuelDraw": 4,
+    "Description": "The Kyuzo Maad-38 heavy laser cannon was a model of heavy, ball laser cannon which were built into the Galactic Empire\u0027s All Terrain Defense Pod as their primary weapon.[1] It was capable of punching a hole through medium vehicle plating.[2] The Maad-38 existed by 18 BBY. In that year,[3] AT-DPs were deployed into the invasion of Mon Cala.[4]"
+  },
+  {
+    "Name": "Mk 1",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_1%2FS_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The Mk 1/S laser cannon was a type of laser cannon. They were installed on Swift Assault 5s."
+  },
+  {
+    "Name": "Mk 1e",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_1e%2FS_heavy_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "The Mk 1e/S heavy laser cannon was a type of laser cannon. PX-4 Mobile Command Bases were armed with Mk 1e/S heavy laser cannons."
+  },
+  {
+    "Name": "Mk 2",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_2%2FS_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The Mk 2/S laser cannon was a type of laser cannon. LAVr QH-7 Chariots and Alliance modified Arrow-23 landspeeders were armed with a single Mk 2/S laser cannon.[1] Mennac the Hutt installed a hidden Mk 2/S laser cannon on her Hutt floater.[2]"
+  },
+  {
+    "Name": "Mk 2e",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_2e%2FS_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 11,
+    "FuelDraw": 0,
+    "Description": "The Mk 2e/S laser cannon was a type of laser cannon. Alliance combat-modified XP-38 sport landspeeders were usually armed with Mk 2e/S laser cannons.[1] A squad of Alliance soldiers on Tatooine made use of a landspeeder mounted with a Mk 2e/S laser cannon.[2]"
+  },
+  {
+    "Name": "Mk 3e",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_3e%2FS_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "The Mk 3e/S heavy laser cannon was a type of laser cannon.[1] Kelliak Arms and Armor Company Freerunners typically mounted a Mk 3e/S laser cannon.[2]"
+  },
+  {
+    "Name": "Mk 4e",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mk_4e%2FS_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "The Mk 4e/S heavy laser cannon was a type of laser cannon."
+  },
+  {
+    "Name": "Nd-53 double laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Nd-53_double_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The Nd-53 double laser cannon was a laser cannon that was fitted to the TSMEU-6 personal wheel bike.[1]"
+  },
+  {
+    "Name": "Nose-mounted laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Nose-mounted_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "A nose-mounted laser cannon was type of laser cannon and the primary weapon on the DSD1 dwarf spider droid.[1]"
+  },
+  {
+    "Name": "Protector Laser",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Protector_Laser",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The Protector Laser was a turret-mounted laser cannon produced by BlasTech Industries."
+  },
+  {
+    "Name": "Pulse laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pulse_laser_cannon",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "Pulse laser cannons,[1] also known simply as Pulse Lasers, were starship-mounted weaponry. The Gorgon, a modified Corellian Engineering Corporation INT-66, mounted a double pulse laser.[2] Pulse laser cannons were mounted on the HT-2200 medium freighter and the Z-10 Seeker-class scout ship.[1]"
+  },
+  {
+    "Name": "R-9X heavy laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/R-9X_heavy_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "I find your lack of sources disturbing."
+  },
+  {
+    "Name": "Sds 8",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Sds_8%2F5_dual_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Clone Wars",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The Sds 8/5 dual laser cannon was created for the 2002 prequel trilogy film Star Wars: Episode II Attack of the Clones[2] and first appeared in the 2002 video game Star Wars: Jedi Starfighter.[3] It was first identified in the 2002 punch-out model activity book Star Wars: Attack of the Clones: Ship Schematics Punch Out Book.[1]"
+  },
+  {
+    "Name": "TU-B4 laser turret",
+    "SourceUrl": "https://starwars.fandom.com/wiki/TU-B4_laser_turret",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 12,
+    "FuelDraw": 2,
+    "Description": "During 3 ABY[2] the scoundrel Kay Vess approached Teeka about installing the turret on the Trailblazer, her EML-850 light freighter, while Teeka\u0027s sandcrawler was in the South Jundland Wastes region of Tatooine. A dismantled protocol droid, designated 22-X, translated Teeka\u0027s Jawaese to Vess and informed her that in exchange for installing the turret the Jawas wanted a tooth from the second mouth of a sarlacc. While "
+  },
+  {
+    "Name": "ZX7 laser cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/ZX7_laser_cannon",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "Equalizer",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Equalizer",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "Vehicles hit by the Equalizer\u0027s ion bolts suffered power failure which left them vulnerable to attack from standard weaponry such as blasters, although some smaller vehicles found that their entire electronic systems were fused by the ion bolt. The weapon was also effective against low-flying aircraft and starfighters. The Equalizer was in common use by the Galactic Empire, especially amongst garrison-based forces.[1"
+  },
+  {
+    "Name": "Interplanetary Ion Cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Interplanetary_Ion_Cannon",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The Interplanetary Ion Cannon was able to target planets at interstellar ranges, and its ion beams could vaporize a terrestrial planet\u0027s atmosphere.[1]"
+  },
+  {
+    "Name": "Ion Battery",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ion_Battery",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 21,
+    "FuelDraw": 4,
+    "Description": "This common, free-floating solar-powered ion cannon weapon platform was an extremely effective defensive weapon. When placed in strategic positions around a space station or other vulnerable target, the Ion Battery was able to provide independent firepower that significantly increased the target\u0027s protection."
+  },
+  {
+    "Name": "Ion-turbo cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ion-turbo_cannon",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "New Republic",
+    "DamageRating": 24,
+    "FuelDraw": 4,
+    "Description": "Ion-turbo cannons were heavy gun emplacements used by the New Republic Defense Force during the Battle of Mindor against the forces of the Galactic Empire, in 5 ABY.[1]"
+  },
+  {
+    "Name": "JR-89 Ion Cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/JR-89_Ion_Cannon",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "Mega-ion cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mega-ion_cannon",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Years later, during the Galactic Civil War, the Chief of Rebel Intelligence for the Rebel Alliance, General Airen Cracken, wrote in a report to Commander-in-Chief Mon Mothma about Imperial weapons projects. In the report, he analyzed the mega-ion cannons on the Malevolence, and was curious as to why the Imperial Navy had not integrated it into its own armada.[2]"
+  },
+  {
+    "Name": "Mine Type B",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mine_Type_B",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 21,
+    "FuelDraw": 4,
+    "Description": "A stationary mine armed with an omni-directional ion cannon, the Mn/T2 was an inexpensive anti-intruder countermeasure. The ion cannon provided defense against starfighters, and the contact detonation system was effective against capital ships, especially when the Mn/T2 was deployed in large numbers as a minefield."
+  },
+  {
+    "Name": "Quad battleship ion cannon",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Quad_battleship_ion_cannon",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Original Trilogy",
+    "DamageRating": 24,
+    "FuelDraw": 4,
+    "Description": "The quad battleship ion cannon was a type of capital ship-grade Battleship ion cannon that was deployed by the Galactic Empire. The Assertor-class Star Dreadnought utilized thirty such cannons.[1]"
+  },
+  {
+    "Name": "V-series",
+    "SourceUrl": "https://starwars.fandom.com/wiki/V-series",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The v-series was series of ion cannons manufactured bu Kuat Drive Yards. Three of the most popular cannons were the v-35 Spoiler, the v-90 Protector, and the v-150 Planet Defender.[1]"
+  },
+  {
+    "Name": "Advanced Proton Torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Advanced_Proton_Torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "An Advanced Proton Torpedo was a type of proton torpedo used by starships.[1]"
+  },
+  {
+    "Name": "Assault proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Assault_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 22,
+    "FuelDraw": 3,
+    "Description": "The assault proton torpedo was a capital ship grade torpedo for use by and against capital ships. They were more powerful than the standard proton torpedo and commonly used aboard MC30c Torpedo Frigate."
+  },
+  {
+    "Name": "Cluster Homing Torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Cluster_Homing_Torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Lieutenant Gavyn Sykes found the technology during a chase on Coruscant."
+  },
+  {
+    "Name": "First Order proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/First_Order_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Sequel Trilogy",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "First Order proton torpedoes were first identified in the 2019 reference book TIE Fighter Owners\u0027 Workshop Manual, written by Ryder Windham.[1]"
+  },
+  {
+    "Name": "Homing proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Homing_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Homing proton torpedoes, also known as seeker proton torpedoes, were proton torpedoes that possessed lock-on capability."
+  },
+  {
+    "Name": "KB-D28 Proton Torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/KB-D28_Proton_Torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 17,
+    "FuelDraw": 1,
+    "Description": "KB-D28 Proton Torpedoes first appeared in the 2020 video game Star Wars: Squadrons.[1]"
+  },
+  {
+    "Name": "LX-4 proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/LX-4_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "LX-4 proton torpedoes are described in TIE Fighter Owners\u0027 Workshop Manual.[1]"
+  },
+  {
+    "Name": "Mark V-rated torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mark_V-rated_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The Mark V-rated torpedo was a type of proton torpedo.[1]"
+  },
+  {
+    "Name": "MG1-A proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/MG1-A_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "L",
+    "Era": "Clone Wars",
+    "DamageRating": 25,
+    "FuelDraw": 3,
+    "Description": "The MG1-A was a type of proton torpedo which was, at the time of the Battle of Praesitlyn, newly developed and yet to be tested in battle. The Centax-class heavy frigate Ranger was armed with two MG1-A torpedo batteries and was the first ever vessel to employ them in combat. In the opening shot of the battle above Praesitlyn, Ranger fired a salvo of the warheads at a Separatist Droid Control ship, who was jamming sig"
+  },
+  {
+    "Name": "MG7 proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/MG7_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The Alliance to Restore the Republic used MG7 proton torpedoes aboard its BTL-A4 Y-wing starfighters.[1]"
+  },
+  {
+    "Name": "MG7-A proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/MG7-A_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The proton torpedo consisted of a proton warhead and guidance gyro inside an armor penetrating housing. This was attached to the front of an armor power shell.[3]"
+  },
+  {
+    "Name": "MGI-A proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/MGI-A_proton_torpedo",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The MGI-A proton torpedo was an Old Republic classification for a proton torpedo that was unaffected by energy fields, thus allowing the weapon to penetrate most starship shields."
+  },
+  {
+    "Name": "Mini-proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Mini-proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A mini-proton torpedo was a miniature proton torpedo, scaled down to fit into a proton torpedo launcher mounted on the wrist of the Zero-G Assault Stormtrooper Armor Mark I."
+  },
+  {
+    "Name": "Proton hydrotorpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Proton_hydrotorpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A proton hydrotorpedo was an aquatic weapon sometimes used in the seas of Lamaredd."
+  },
+  {
+    "Name": "PT-240 proton torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/PT-240_proton_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 1,
+    "Description": "During 3 ABY[2] the thief Kay Vess paid for the services of a starship mechanic to equip the Trailblazer, her EML-850 light freighter, to launch PT-240 proton torpedo as well as providing materials to install it\u0027s launcher.[1]"
+  },
+  {
+    "Name": "Stage Three torpedo",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Stage_Three_torpedo",
+    "Category": "torpedo",
+    "HardpointSize": "L",
+    "Era": "Old Republic",
+    "DamageRating": 22,
+    "FuelDraw": 3,
+    "Description": "A Stage Three torpedo was a modified proton torpedo designed to disrupt tractor beams when detonated. The Lady Luck was equipped with them."
+  },
+  {
+    "Name": "Air-to-surface bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Air-to-surface_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Air-to-surface bombs were explosive weapons. The TL-118 \u0022StarHammer\u0022 Short-range Attack Ship was armed with a number of air-to-surface bombs.[1]"
+  },
+  {
+    "Name": "Blazer bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Blazer_bomb",
+    "Category": "ion",
+    "HardpointSize": "L",
+    "Era": "Clone Wars",
+    "DamageRating": 21,
+    "FuelDraw": 4,
+    "Description": "Blazer bombs were devastating[2] incendiary explosives used by the Confederacy of Independent Systems during the Clone Wars.[1] In 22 BBY,[3] the Cadesura district of Zarra, the capital city of the planet Cato Neimoidia, was destroyed in a bombing which used both Separatist and Galactic Republic munitions, including scaled-down blazer bombs. When Jedi Master Obi-Wan Kenobi was sent to investigate the disaster, he lea"
+  },
+  {
+    "Name": "Blister bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Blister_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "Broadcap bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Broadcap_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Broadcap Bombs, or more commonly known as Punch-and-Pops were used by the Adumari for their aerial bombers."
+  },
+  {
+    "Name": "Bunker-buster",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Bunker-buster",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "A bunker-buster was a weapon used to penetrate fortified structures."
+  },
+  {
+    "Name": "Chemical bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Chemical_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "During the Battle of Corellia in 3640 BBY, a group of Sith under Lord Argos attempted to construct a chemical bomb, but they were stopped by the Jedi Knight known as the Hero of Tython."
+  },
+  {
+    "Name": "CL-3 antistarfighter cluster bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/CL-3_antistarfighter_cluster_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The CL-3 antistarfighter cluster bomb, manufactured by FreiTek Incorporated, was an ovoid blister mounted to the hull of a starship, typically the Mon Calamari Star Cruiser. Designed to blend in with the vessel\u0027s superstructure,[1] disguised as standard weapons emplacements, sensor array blisters, and cargo modules, the CL-3 targeted enemy starfighter formations that flew past the vessel during combat, exploding and "
+  },
+  {
+    "Name": "Cluster bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Cluster_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "Clutterbomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Clutterbomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Clutterbombs were a type of explosive which were used during the time of the Galactic Empire. Tassahondee Station\u0027s passages were riddled with clutterbombs when the TIE pilot Yrica Quell once flew through them.[1]"
+  },
+  {
+    "Name": "Core bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Core_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A core bomb was a type of explosive. Qui-Gon Jinn searched for traces of a core bomb by identifying its key components, accellerite, and magnopium ferrocongregate by way of vapor samplers. Malta the Hutt, in a discussion with fellow Hutts Jabba and Embra, commented that he would have handled the Besadii spice raid by arming a \u0022suicidal zealot\u0022 with a core bomb and dropping the individual into the clan\u0027s Ylesian base "
+  },
+  {
+    "Name": "Cortex bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Cortex_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 12,
+    "FuelDraw": 2,
+    "Description": "Cortex bombs were first mentioned in the new Star Wars canon in Cyphers and Masks,[1] a 2018 sourcebook for the Star Wars: Age of Rebellion roleplaying game published by Fantasy Flight Games.[2] They originated in the Star Wars Legends continuity, where they first appeared in Star Wars: The Old Republic, a 2011 massively multiplayer online role-playing game that was produced and released by BioWare.[3]"
+  },
+  {
+    "Name": "Disruptor bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Disruptor_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Disruptor bombs were deadly explosives used by the guard of Xizor\u0027s Palace. They created a huge, green explosion, which destroys mostly everything on contact."
+  },
+  {
+    "Name": "Electro-proton bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Electro-proton_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Clone Wars",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The electro-proton bomb was a type of bomb designed to emit an electromagnetic field that could take out the Separatist droid forces.[1]"
+  },
+  {
+    "Name": "Energy bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Energy_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Energy bombs were slow-moving clouds of energy employed as explosive weapons by starfighters and bombers."
+  },
+  {
+    "Name": "Firebomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Firebomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Clone Wars",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A firebomb was an incendiary explosive used by rioters on the planet Kabal in 22 BBY. Premiere Jan Dovu, planetary leader of Kabal during the Separatist Crisis, was killed when a firebomb detonated near him during the riots."
+  },
+  {
+    "Name": "Fuel-air bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Fuel-air_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 12,
+    "FuelDraw": 2,
+    "Description": "Fuel-air bombs were mentioned in Gadgets and Gear, a roleplaying supplementary sourcebook for the Star Wars Roleplaying series that was published by Fantasy Flight Games in 2019.[1]"
+  },
+  {
+    "Name": "Fusion bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Fusion_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Fusion bombs were a type of powerful bomb device utilized by the Galactic Empire. During the Great Purge of Mandalore, the Imperial Navy deployed a massive fleet of TIE/sa bombers armed with fusion bombs, devastating the domed cities of the planet and crystalizing much of its surface, converting it into trinitite. The bombs were also capable of disrupting the magnetic field of a planet and causing communication inter"
+  },
+  {
+    "Name": "Gas bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gas_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Gas bombs were explosives filled with poisonous gas. The Grand Army of the Republic deployed gas bombs made by Doctor Sionver Boll with Malastarian fuel to kill the Zillo Beast.[1]"
+  },
+  {
+    "Name": "Glop bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Glop_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Glop bombs were a type of armament used by Jedi StealthX fighters. They were essentially a bomb that spread a quick-hardening foam over an area. A group of rogue Jedi, led by Jacen Solo, used them during the Raid on Supply Depot Thrago. They worked in a fashion similar to that of glop grenades."
+  },
+  {
+    "Name": "Graffiti-bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Graffiti-bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A graffiti-bomb was a bomb that used graffiti to emblazon images or text upon surfaces. In 22 BBY, graffiti-bombs were used by twenty University of Coruscant students to vandalize the Jedi Temple on the planet Coruscant during a protest over the controversial \u0022Baby Ludi\u0022 custody case. The protest was soon stopped by the Jedi and Galactic Republic Judicials subsequently arrested the student protesters."
+  },
+  {
+    "Name": "Gravity bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Gravity_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A gravity bomb was a slow torpedo that was designed to attack larger ships. The explosion from the weapon would generate intense gravity waves designed to shake targets to pieces by disrupting the local gravitic fields. The weapons were used by the forces of Cronal at the Battle of Mindor, by the Yevetha, and by the Imperial Navy at the Battle of Caamas."
+  },
+  {
+    "Name": "HC-7 Ion Bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/HC-7_Ion_Bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Boba Fett? Boba Fett? Where?"
+  },
+  {
+    "Name": "Hull-cracker",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Hull-cracker",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "The hull-cracker was an experimental weapon developed by Czerka Corporation on Corellia. During the Battle of Corellia, commander Jastal of the Imperial Guard helped an Imperial-aligned individual steal the weapon for the reconstituted Sith Empire[1] and used it to breach the Corellian Engineering Corporation headquarters.[2]"
+  },
+  {
+    "Name": "Impairment remote",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Impairment_remote",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "The title of this article is conjectural."
+  },
+  {
+    "Name": "Incremental-sequence bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Incremental-sequence_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "The incremental-sequence bomb was an explosive device that was designed to detonate in sequences. The detonation patterns began as minor explosions and became more powerful with each subsequent explosion such that the final explosion was capable of destroying most starships. An incremental-sequence bomb was installed within a decoy vessel of the bounty hunter Boba Fett\u0027s starship, the Slave I. Around 1 ABY, fellow bo"
+  },
+  {
+    "Name": "Ion bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ion_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Sequel Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Ion bombs were explosive bombs carried by starships, such as the Ghost, which used homemade ion bombs to target ground-based vehicles.[1] During the Resistance war against the First Order, some T-70 X-wing starfighters were equipped with ion bombs.[2]"
+  },
+  {
+    "Name": "Ion pulse bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Ion_pulse_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "An ion pulse bomb was a weapon. When detonated, it temporarily neutralized all active electronic systems in a two-hundred-meter radius. Justice Action Network terrorists used an ion pulse bomb too disrupt the Unification Gala and capture high-profile targets. The weapon was supplied to them by Trevas Jotane, an ISB operative posing as a House Calipsa knight.[1]"
+  },
+  {
+    "Name": "LX-9 slap charge",
+    "SourceUrl": "https://starwars.fandom.com/wiki/LX-9_slap_charge",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "In 5 BBY, the Axis network\u0027s Aldhani rebel infiltration team used a pair of these charges during their robbery of the Aldhani dam in order to blow the safety chains off the credit trays in the base\u0027s vault. After successfully freeing the trays from their restraints, the rebels forced the base\u0027s Imperial staff to load them on a Max-7 Rono box freighter.[2]"
+  },
+  {
+    "Name": "M-12",
+    "SourceUrl": "https://starwars.fandom.com/wiki/M-12",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A failure rate of nearly ten percent caused the line to be discontinued, forcing the Imperial Navy to update to a more reliable integrated gravity-wave system inside the bomb itself."
+  },
+  {
+    "Name": "Magnepulse bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Magnepulse_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Magnepulse bombs were a piece of equipment carried aboard the inquisition module of a modular taskforce cruiser.[1] It was a clean weapon that prevented the enemy from retaliating with modern weaponry. The bombs were the same size as a standard TIE Series starfighter, and any starship capable of carrying fighters could transport magnepulse bombs. It was a one-shot weapon, meaning it was mission expensive due to the s"
+  },
+  {
+    "Name": "Magnetising cluster bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Magnetising_cluster_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Magnetising cluster bombs,[2] also known as magnetic cluster bombs,[3] were explosive weapons carried by bomber craft such as the Rebel Alliance\u0027s Y-wings during the Galactic Civil War. The bombs were spherical in appearance and were able to be magnetized, which allowed them to attach to the metallic hulls of heavily armored vehicles such as All Terrain Armored Transports and produce great damage when released in vas"
+  },
+  {
+    "Name": "Molecular purge bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Molecular_purge_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "The title of this article is conjectural."
+  },
+  {
+    "Name": "Neutron detonator",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Neutron_detonator",
+    "Category": "laser",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 8,
+    "FuelDraw": 0,
+    "Description": "A neutron detonator was a type of city-busting explosive. The Farnel Research Facility was developing a neutron detonator before the Great Galactic War, and Lieutenant Piloc\u0027s unit attempted to retrieve plans for the detonator during the Cold War."
+  },
+  {
+    "Name": "Pamphlet bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pamphlet_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A pamphlet bomb was a type of bomb designed to disperse airborne propaganda leaflets.[1] At some point between 5 BBY and 4 BBY,[2] the budding Rebel Alliance helped the people of Mon Cala spread news of what the Galactic Empire did to their world by dropping such bombs in the atmospheres of four neighboring planets.[1]"
+  },
+  {
+    "Name": "Particle bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Particle_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Particle bombs were first mentioned in the desktop game Star Wars Rebels: Chopper Chase, which was released on November 11, 2016.[1]"
+  },
+  {
+    "Name": "Penetration bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Penetration_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "New Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A penetration bomb was a projectile weapon employed by the New Republic. Standing as tall as an average Human male, the bomb was encased in black armor. One end sported a reinforced spike, while the tail had several thrusters attached. During engagements, penetration bombs would be released over a target, dropping to the ground using only inertia. Two seconds before impact, the tail thrusters would fire, driving the "
+  },
+  {
+    "Name": "Pipe bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pipe_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A pipe bomb[1] was a type of explosive which could be produced by hand. The boy Wilmon Paak produced one after his father, Salman Paak, was arrested by the Galactic Empire and did not return. When the funeral of Maarva Andor turned into a riot against present Imperial forces. Wilmon, among the angered crowd, activated the bomb and threw it at the Empire\u0027s troops, causing a chain of explosions that ensued chaos along "
+  },
+  {
+    "Name": "Planetoid",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Planetoid_%28weapon%29",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Old Republic",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "Planetoids were spherical hazards scattered throughout the zero-gravity arena in the final round of the Big Game, a gladiatorial competition held on The Wheel. The planetoids would explode with deadly force upon contact with a contestant or the blast from a needle ray. They also had force fields that detected nearby contestants and responded by erupting with vaporizer beams.[1]"
+  },
+  {
+    "Name": "PMX4 polarized proximity bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/PMX4_polarized_proximity_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "PMX4 polarized proximity bombs were a type of explosive weapons. Such bombs were used by the battle droid Watchdog during the Third Galactic War.[1]"
+  },
+  {
+    "Name": "Pressure bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pressure_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Pressure bombs were weapons used by both the Galactic Republic and the Honorable Union of Desevro \u0026 Tion in the Tionese War. They were designed to release a vast quantity of sheer pressure when detonated, causing widespread damage."
+  },
+  {
+    "Name": "Proto-isotope bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Proto-isotope_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A proto-isotope bomb was a powerful type of bomb that could vaporize an entire city. The droid HMC-10 had witnessed such an event by the time of the Invasion of Ziost."
+  },
+  {
+    "Name": "Proton bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Proton_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Proton bombs were powerful explosive weapons carried by bomber craft such as BTL-A4 Y-wing starfighters and TIE/sa bombers. The bombs themselves were spherical in appearance,[5] although when stored in cylindrical containers, they could also be used as high-yield explosives capable of producing great damage to heavily armored vehicles such as AT-ATs.[6]"
+  },
+  {
+    "Name": "Proton warhead",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Proton_warhead",
+    "Category": "torpedo",
+    "HardpointSize": "M",
+    "Era": "Sequel Trilogy",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A proton warhead was an explosive[2] device usually found integrated within the tips of proton torpedos, such as the MG7 proton torpedo along with the subsequent MG7-A proton torpedo, utilised by the Alliance to Restore the Republic\u0027s and Resistance\u0027s starfighters, respectively. Such a device was also installed in an E-XD-series infiltrator droid, as part of its internal self-destruct mechanism.[1]"
+  },
+  {
+    "Name": "Proximity bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Proximity_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Proximity bombs appear in DICE\u0027s 2015 canon video game Star Wars: Battlefront. Their model is the same as the 7-PrG proton grenade."
+  },
+  {
+    "Name": "Pulse bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Pulse_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Original Trilogy",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "Pulse bombs were a type of bomb that generated an electromagnetic pulse. The Dressellian Rebel Alliance commando Lokmarcha kept a pulse bomb hidden on his chest when he and several other Alliance troops were brought onto the Imperial-class Star Destroyer Shieldmaiden. The bomb was powerful enough to shut down a large section of the Star Destroyer, though it killed Lokmarcha in the process.[1]"
+  },
+  {
+    "Name": "Quantum bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Quantum_bomb",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "Koth installed one quantum bomb on the Gravestone vessel to prevent it from falling into enemy hands. However, it proved a liability when the ship was taken over by SCORPIO and Vaylin with Koth still onboard and the Alliance fleet nearby. Koth and the Alliance Commander had to defuse bomb fuses throughout the ship and after the bomb was triggered anyway during Vaylin\u0027s fight with Lana Beniko, he barely had the time t"
+  },
+  {
+    "Name": "Rocket bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Rocket_bomb",
+    "Category": "missile",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 14,
+    "FuelDraw": 1,
+    "Description": "A rocket bomb was a type of firework used on the planet Vallt.[1]"
+  },
+  {
+    "Name": "Seismic charge",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Seismic_charge",
+    "Category": "laser",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 1,
+    "Description": "Seismic charges, also known as a seismic bomb, were devastating weapons that drew sound in from their immediate vicinity and exploded in concussive waves of brilliant blue light, shattering everything in their wake.[2] A Charge Core was a component used in seismic charges.[3] Jango Fett launched several Void-7 seismic charges from a deployer[4] aboard his starship, Slave I, while trying to kill Obi-Wan Kenobi during "
+  },
+  {
+    "Name": "Slap charge",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Slap_charge",
+    "Category": "ion",
+    "HardpointSize": "S",
+    "Era": "Original Trilogy",
+    "DamageRating": 7,
+    "FuelDraw": 1,
+    "Description": "A slap charge was a type of explosive small enough to be concealed on a person\u0027s clothes. Slap charges could be remotely triggered using a detonator.[1] During the Galactic Civil War, Merr-Sonn Munitions, Inc. manufactured the LX-9 slap charge, which was used by the Rebel Alliance.[2]"
+  },
+  {
+    "Name": "Sleeper bomb",
+    "SourceUrl": "https://starwars.fandom.com/wiki/Sleeper_bomb",
+    "Category": "ion",
+    "HardpointSize": "M",
+    "Era": "Old Republic",
+    "DamageRating": 13,
+    "FuelDraw": 2,
+    "Description": "A sleeper bomb was an explosive device which was attached, while dormant, to its intended target in order to avoid detection. When the bomb was activated, it gradually collected the power for the explosion from a nearby source, making it even harder to detect. A sleeper bomb was used to compromise the hull of the Millennium Falcon en route to Ammuud, in 2 BBY."
+  }
+]

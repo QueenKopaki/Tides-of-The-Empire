@@ -1,0 +1,15 @@
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.csproj.AssemblyReference.cache
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.GeneratedMSBuildEditorConfig.editorconfig
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.csproj.CoreCompileInputs.cache
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\ScraperRunner.exe
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\ScraperRunner.deps.json
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\ScraperRunner.runtimeconfig.json
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\ScraperRunner.dll
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\ScraperRunner.pdb
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperR.6EE5622F.Up2Date
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.dll
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\refint\ScraperRunner.dll
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.pdb
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ScraperRunner.genruntimeconfig.cache
+K:\Project\Star Wars Text based game\StarWarsRpgCs\Tools\ScraperRunner\obj\Debug\net8.0-windows\ref\ScraperRunner.dll

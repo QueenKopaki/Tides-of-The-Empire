@@ -1,0 +1,5 @@
+K:\Project\Star Wars Text based game\StarWarsRpgCs\bin\Release\net8.0-windows\win-x64\publish\StarWarsRpgCs.exe
+K:\Project\Star Wars Text based game\StarWarsRpgCs\bin\Release\net8.0-windows\win-x64\publish\StarWarsRpgCs.dll
+K:\Project\Star Wars Text based game\StarWarsRpgCs\bin\Release\net8.0-windows\win-x64\publish\StarWarsRpgCs.deps.json
+K:\Project\Star Wars Text based game\StarWarsRpgCs\bin\Release\net8.0-windows\win-x64\publish\StarWarsRpgCs.runtimeconfig.json
+K:\Project\Star Wars Text based game\StarWarsRpgCs\bin\Release\net8.0-windows\win-x64\publish\StarWarsRpgCs.pdb
