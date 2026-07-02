@@ -2,6 +2,7 @@ How to Run
 
 Extract the contents of the downloaded ZIP file into a folder of your choice. Once extracted, navigate to the folder and double-click on rungame.bat to start the game.
 
+Personal License:
 Anyone is free to edit or contribute to this project, I am new to github and do not fully know how it works, though you must ask me to redistribute and you can not claim this as your own project.
 
 Backstory
