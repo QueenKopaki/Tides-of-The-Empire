@@ -32,6 +32,14 @@ Completely overhaul the galactic events displays to also display separate local 
 
 Overhaul the factions and reputation system to have many more factions and standings.
 
+Overhaul the weapons sytem to give weapon unique stats.
+
+Make an output system like the other ones to easily implement new weapons and Armors.
+
+Completley rework existing outputs to important blueprints and stats.
+
+Implement quality system for weapons, items, and crafting mats to have better stats and a chance at getting better stats when crafted.
+
 More faction themed ores, items, weapons, alloys, ships, vehicles, blueprints, an crafting.
 
 Implement tiered crafting stations/workbenches and ship and vehicle manufacturing plants with a full crafting system overhaul.
@@ -40,7 +48,7 @@ Rework encounter system to fully work and display subzones and quest zones relev
 
 Implement random encounters while traveling to subzones.
 
-Completely overhaul the romance system and remove redundant weapons (Currently in a more tech demo state for testing and messing around with).
+Completely overhaul the romance system and remove redundant buttons (Currently in a more tech demo state for testing and messing around with).
 
 Completely overhaul and create combat mechanics for for capital ships and normal ship mechanics and crew for capital ships and normal ships with stats.
 
