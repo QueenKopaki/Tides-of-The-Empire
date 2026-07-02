@@ -30,6 +30,12 @@ Rework NPC chat system so the NPC is more lucid (not an LLM but in a similar sen
 
 Completely overhaul the galactic events displays to also display separate local influences and events and implement a way for it to log and "remember" events so time can progress (rotations) and stuff can take effect properly.
 
+Overhaul the factions and reputation system to have many more factions and standings.
+
+More faction themed ores, items, weapons, alloys, ships, vehicles, blueprints, an crafting.
+
+Implement tiered crafting stations/workbenches and ship and vehicle manufacturing plants with a full crafting system overhaul.
+
 Rework encounter system to fully work and display subzones and quest zones relevant to a planet (Some quests are impossible to complete).
 
 Completely overhaul the romance system and remove redundant weapons (Currently in a more tech demo state for testing and messing around with).
@@ -58,11 +64,13 @@ Remove existing redundant buttons.
 
 Add ship UI to inventory as a whole and rename "Inventory" to "Character Stats," Remove redundant button.
 
+Implement separate menu for land vehicles (with implementation of the encounter and travel system overhaul some places would require certain land vehicles sutible for the terrain type)
+
 Add better UI feedback when there is error or something that can't be equip for example.
 
 Add more ores, items, armors, and ships related to Alloying and crafting.
 
-Rename everything (including the values in "output") to be it's own universe and steer away from Star Wars Universe.
+Rename everything (including the values in "output") to be it's own universe and steer away from Star Wars and Star Citizen Universe.
 
 Design custom lore for a custom universe related to above roadmap item.
 
