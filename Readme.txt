@@ -38,9 +38,11 @@ Implement tiered crafting stations/workbenches and ship and vehicle manufacturin
 
 Rework encounter system to fully work and display subzones and quest zones relevant to a planet (Some quests are impossible to complete).
 
+Implement random encounters while traveling to subzones.
+
 Completely overhaul the romance system and remove redundant weapons (Currently in a more tech demo state for testing and messing around with).
 
-Implement mechanics for capital ships and crew for capiutal ships with stats.
+Completely overhaul and create combat mechanics for for capital ships and normal ship mechanics and crew for capital ships and normal ships with stats.
 
 Completely overhaul the ship system and possible overhaul the crafting system to be more inline with new ship systems.
 
@@ -75,6 +77,8 @@ Rename everything (including the values in "output") to be it's own universe and
 Design custom lore for a custom universe related to above roadmap item.
 
 Find and/or create a new name for the game and project that is more creative.
+
+[Ambitious] Possibly turn this into a 3D MMO if I learn normal game development or I find a development team to do it.
 
 Disclaimers (will exist until universe changed to custom universe with it's own lore):
 This project is an unofficial, non-profit game made to practice coding in C#. Star Wars and its associated elements are trademarks and copyrights of Lucasfilm Ltd. and The Walt Disney Company. The cargo volumetric unit system and vehicle scale mechanics are inspired by the SCU (Standard Cargo Unit) system from Star Citizen, and are not endorsed by or affiliated with Cloud Imperium Games (CIG) or Roberts Space Industries (RSI). All trademarks belong to their respective owners.
