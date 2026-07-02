@@ -36,7 +36,7 @@ Overhaul the weapons sytem to give weapon unique stats.
 
 Make an output system like the other ones to easily implement new weapons and Armors.
 
-Completley rework existing outputs to important blueprints and stats.
+Completley rework existing outputs to import blueprints and stats.
 
 Implement quality system for weapons, items, and crafting mats to have better stats and a chance at getting better stats when crafted.
 
