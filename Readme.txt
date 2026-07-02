@@ -60,7 +60,7 @@ Add ship UI to inventory as a whole and rename "Inventory" to "Character Stats,"
 
 Add better UI feedback when there is error or something that can't be equip for example.
 
-Add more items, armors, and ships related to Alloying.
+Add more ores, items, armors, and ships related to Alloying and crafting.
 
 Rename everything (including the values in "output") to be it's own universe and steer away from Star Wars Universe.
 
