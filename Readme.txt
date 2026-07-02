@@ -74,5 +74,7 @@ Rename everything (including the values in "output") to be it's own universe and
 
 Design custom lore for a custom universe related to above roadmap item.
 
+Find and/or create a new name for the game and project that is more creative.
+
 Disclaimers (will exist until universe changed to custom universe with it's own lore):
 This project is an unofficial, non-profit game made to practice coding in C#. Star Wars and its associated elements are trademarks and copyrights of Lucasfilm Ltd. and The Walt Disney Company. The cargo volumetric unit system and vehicle scale mechanics are inspired by the SCU (Standard Cargo Unit) system from Star Citizen, and are not endorsed by or affiliated with Cloud Imperium Games (CIG) or Roberts Space Industries (RSI). All trademarks belong to their respective owners.
