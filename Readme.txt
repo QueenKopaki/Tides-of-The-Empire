@@ -48,7 +48,7 @@ Fix some stuff can't be equip or don't show up in inventory.
 
 Bug fix, always bugfix.
 
-Implement optional tutorial quest chain curated starting planet to introduce basic systems such as mining, delivering items, collecting items from an NPC and handing it over to another using items that be obtained on the starting planet so there are no soft/hardlocks, etc... that rewards a basic ship (skiff) at the end.
+Implement optional tutorial quest chain curated starting planet to introduce basic systems such as mining, delivering items, collecting items from an NPC and handing it over to another using items that can be obtained on the starting planet so there are no soft/hardlocks, etc... that rewards a basic ship (skiff [will change when custom universe implemented]) at the end.
 
 Completely rework item, blueprint system, and crafting system to allow alloying in forges and introduce made up Star Wars themed alloys for crafting.
 
