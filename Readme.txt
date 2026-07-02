@@ -41,7 +41,9 @@ Implement a way so a character wipe wipes all galactic events, npc memories, and
 
 Remove redundant buttons when overhaul is done.
 
-Completely rework Character inventory and ship cargo system to be more balanced (20000000 million μSCU is like 20 SCU which is 20 meters squared, horribly imbalanced for character inventory).
+Completely rework Character inventory and ship cargo system to be more balanced (20000000 million μSCU is like 20 SCU which is 20 meters squared, horribly imbalanced for character inventory). 
+
+Fix some stuff can't be equip or don't show up in inventory.
 
 Bug fix, always bugfix.
 
@@ -55,6 +57,13 @@ Remove existing redundant buttons.
 
 Add ship UI to inventory as a whole and rename "Inventory" to "Character Stats," Remove redundant button.
 
+Add better UI feedback when there is error or something that can't be equip for example.
 
-Disclaimers:
+Add more items, armors, and ships related to Alloying.
+
+Rename everything (including the values in "output") to be it's own universe and steer away from Star Wars Universe.
+
+Design custom lore for a custom universe related to above roadmap item.
+
+Disclaimers (will exist until universe changed to custom universe with it's own lore):
 This project is an unofficial, non-profit game made to practice coding in C#. Star Wars and its associated elements are trademarks and copyrights of Lucasfilm Ltd. and The Walt Disney Company. The cargo volumetric unit system and vehicle scale mechanics are inspired by the SCU (Standard Cargo Unit) system from Star Citizen, and are not endorsed by or affiliated with Cloud Imperium Games (CIG) or Roberts Space Industries (RSI). All trademarks belong to their respective owners.
